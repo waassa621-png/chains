@@ -27565,6 +27565,7 @@
 }, {
   "name": "EB-Chain",
   "chain": "EBC",
+  "icon": "ebc",
   "rpc": ["https://rpc.ebcscan.net"],
   "faucets": ["https://ebcscan.net/faucet"],
   "nativeCurrency": {

@@ -8130,6 +8130,15 @@
     "format": "png"
   }]
 }, {
+  "name": "ebc",
+  "icons": [{
+    "name": "EB-Chain",
+    "url": "ipfs://bafkreietnxqipwdsznuphxeksqkxxcs33ryxseak7mwdi7uvk5sh63n62e",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "highbury",
   "icons": [{
     "url": "ipfs://bafkreiby27m6esbsjthmknckq5ktsaaj2z6hylzljbsmvx4fgezdra3q4m",
