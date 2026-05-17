@@ -590,6 +590,7 @@
   "UtronMainnet": "eip155:1231",
   "step": "eip155:1234",
   "itx": "eip155:1235",
+  "bak": "eip155:1236",
   "ARC": "eip155:1243",
   "TARC": "eip155:1244",
   "om": "eip155:1246",
