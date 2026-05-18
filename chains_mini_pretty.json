@@ -6278,6 +6278,19 @@
   "faucets": ["https://faucet.v4.testnet.pulsechain.com/"],
   "infoURL": "https://pulsechain.com"
 }, {
+  "name": "ZIGChain",
+  "chainId": 944,
+  "shortName": "zigchain",
+  "networkId": 944,
+  "nativeCurrency": {
+    "name": "ZIG",
+    "symbol": "ZIG",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://zigchain.com/"
+}, {
   "name": "Subtensor EVM Testnet",
   "chainId": 945,
   "shortName": "bittensor-evm-testnet",
@@ -10320,6 +10333,19 @@
   "rpc": ["https://msc-rpc.movoscan.com", "https://msc-rpc.movochain.org", "https://msc-rpc.movoswap.com"],
   "faucets": [],
   "infoURL": "https://movo.uk"
+}, {
+  "name": "ZIGChain Testnet",
+  "chainId": 2061,
+  "shortName": "zigchain-testnet",
+  "networkId": 2061,
+  "nativeCurrency": {
+    "name": "ZIG",
+    "symbol": "ZIG",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://zigchain.com/"
 }, {
   "name": "MFX Network",
   "chainId": 2064,

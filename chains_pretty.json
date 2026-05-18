@@ -10470,6 +10470,21 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "ZIGChain",
+  "chain": "ZIG",
+  "rpc": [],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "ZIG",
+    "symbol": "ZIG",
+    "decimals": 18
+  },
+  "infoURL": "https://zigchain.com/",
+  "shortName": "zigchain",
+  "chainId": 944,
+  "networkId": 944,
+  "status": "incubating"
+}, {
   "name": "Subtensor EVM Testnet",
   "chain": "Bittensor",
   "rpc": ["https://test.chain.opentensor.ai"],
@@ -16999,6 +17014,21 @@
     "icon": "movoscan",
     "standard": "none"
   }]
+}, {
+  "name": "ZIGChain Testnet",
+  "chain": "ZIG",
+  "rpc": [],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "ZIG",
+    "symbol": "ZIG",
+    "decimals": 18
+  },
+  "infoURL": "https://zigchain.com/",
+  "shortName": "zigchain-testnet",
+  "chainId": 2061,
+  "networkId": 2061,
+  "status": "incubating"
 }, {
   "name": "MFX Network",
   "chain": "MFX",
