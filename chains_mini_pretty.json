@@ -7370,6 +7370,19 @@
   "faucets": [],
   "infoURL": "https://intuition.systems"
 }, {
+  "name": "ClubMOS Testnet",
+  "chainId": 1166,
+  "shortName": "tCMX",
+  "networkId": 1166,
+  "nativeCurrency": {
+    "name": "ClubMOS",
+    "symbol": "tCMX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.mosscan.com"],
+  "faucets": ["https://faucet.clubmos.com"],
+  "infoURL": "https://www.clubmos.com"
+}, {
   "name": "Origin Testnet",
   "chainId": 1170,
   "shortName": "auoc",
@@ -10801,6 +10814,19 @@
   "rpc": ["https://erpc-krest.peaq.network", "https://krest.unitedbloc.com"],
   "faucets": [],
   "infoURL": "https://www.peaq.network"
+}, {
+  "name": "ClubMOS",
+  "chainId": 2255,
+  "shortName": "CMX",
+  "networkId": 2255,
+  "nativeCurrency": {
+    "name": "ClubMOS",
+    "symbol": "CMX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.mosscan.com"],
+  "faucets": ["https://faucet.clubmos.com"],
+  "infoURL": "https://www.clubmos.com"
 }, {
   "name": "BOMB Chain",
   "chainId": 2300,

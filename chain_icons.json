@@ -4093,6 +4093,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "mos",
+  "icons": [{
+    "url": "ipfs://bafkreibef7oqrhlrg265v5wf5bxjwnmt4onf53lrjynggh4oopsttneyba",
+    "width": 800,
+    "height": 800,
+    "format": "png"
+  }]
+}, {
   "name": "testnetpsc",
   "icons": [{
     "url": "ipfs://QmXmBxoHWyPfpYP3gLfVB2d5DfVKT4FXKb4Bt6m7nf19wL",
@@ -6856,6 +6864,14 @@
     "width": 800,
     "height": 800,
     "format": "png"
+  }]
+}, {
+  "name": "mosscan",
+  "icons": [{
+    "url": "ipfs://bafkreifgg2fmkq6nunqepxkkalw6pv7y3ww7gp7uec6khckzvvck53pwa4",
+    "width": 200,
+    "height": 200,
+    "format": "svg"
   }]
 }, {
   "name": "vine",
