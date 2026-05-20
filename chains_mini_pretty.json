@@ -26766,6 +26766,19 @@
   "faucets": ["https://info.form.network/faucet"],
   "infoURL": "https://sepolia-info.form.network"
 }, {
+  "name": "BEXChain",
+  "chainId": 140586,
+  "shortName": "bexchain",
+  "networkId": 140586,
+  "nativeCurrency": {
+    "name": "BEX",
+    "symbol": "BEX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.bexchain.com"],
+  "faucets": [],
+  "infoURL": "https://bexchain.com"
+}, {
   "name": "MagApe Testnet",
   "chainId": 141319,
   "shortName": "mag",
