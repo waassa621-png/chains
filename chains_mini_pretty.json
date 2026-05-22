@@ -20344,7 +20344,7 @@
   "faucets": ["https://faucet.rivest.inco.org"],
   "infoURL": "https://inco.org"
 }, {
-  "name": "All About Healthy",
+  "name": "All About Health",
   "chainId": 21133,
   "shortName": "aah",
   "networkId": 21133,
@@ -20353,9 +20353,9 @@
     "symbol": "AAH",
     "decimals": 18
   },
-  "rpc": ["https://rpc.c4ex.net"],
-  "faucets": ["https://t.me/c4eiAirdrop"],
-  "infoURL": "https://c4ex.net"
+  "rpc": ["https://rpc.aah.name"],
+  "faucets": ["https://aah.name"],
+  "infoURL": "https://aah.name"
 }, {
   "name": "1Money Network Mainnet",
   "chainId": 21210,
