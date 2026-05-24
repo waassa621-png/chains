@@ -31173,7 +31173,7 @@
   "faucets": [],
   "infoURL": "https://musicoin.tw"
 }, {
-  "name": "VALYGO Smart Contract",
+  "name": "VALYGO Smartchain",
   "chainId": 7771777,
   "shortName": "vyo",
   "networkId": 7771777,
@@ -31182,7 +31182,7 @@
     "symbol": "VYO",
     "decimals": 18
   },
-  "rpc": ["https://rpc-gw-1.vyoscan.com/ext/bc/2t51dXsuxUvd9teY9TKEJmgxmxMk3CRF88UYTA4HQgjeYZqzSX/rpc"],
+  "rpc": ["https://rpc-gw-1.vyoscan.com/ext/bc/2t51dXsuxUvd9teY9TKEJmgxmxMk3CRF88UYTA4HQgjeYZqzSX/rpc", "https://rpc-gw-2.vyoscan.com/ext/bc/2t51dXsuxUvd9teY9TKEJmgxmxMk3CRF88UYTA4HQgjeYZqzSX/rpc"],
   "faucets": [],
   "infoURL": "https://vyochain.com"
 }, {
@@ -31195,7 +31195,7 @@
     "symbol": "VYO",
     "decimals": 18
   },
-  "rpc": ["https://rpc-gw-1.vyoscan.com/ext/bc/2RyzsmGypNQZPby1miwMMV8spTvhgd9qd2peNRzU1mErUQqSSw/rpc"],
+  "rpc": ["https://rpc-gw-1.vyoscan.com/ext/bc/2RyzsmGypNQZPby1miwMMV8spTvhgd9qd2peNRzU1mErUQqSSw/rpc", "https://rpc-gw-2.vyoscan.com/ext/bc/2RyzsmGypNQZPby1miwMMV8spTvhgd9qd2peNRzU1mErUQqSSw/rpc"],
   "faucets": [],
   "infoURL": "https://vyochain.com"
 }, {
