@@ -19031,6 +19031,19 @@
   "faucets": [],
   "infoURL": "https://ssquad.games/"
 }, {
+  "name": "RANNTA X-Chain",
+  "chainId": 13113,
+  "shortName": "rntx",
+  "networkId": 13113,
+  "nativeCurrency": {
+    "name": "RANNTA Core X",
+    "symbol": "RNTX",
+    "decimals": 13
+  },
+  "rpc": ["https://rpc.rannta.com/api/rpc"],
+  "faucets": [],
+  "infoURL": "https://rannta.com"
+}, {
   "name": "Credit Smart Chain",
   "chainId": 13308,
   "shortName": "Credit",

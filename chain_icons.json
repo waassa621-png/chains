@@ -6522,6 +6522,14 @@
     "format": "png"
   }]
 }, {
+  "name": "rannta",
+  "icons": [{
+    "url": "ipfs://bafkreidbjadnjrdlmn6vm7brvd7sryvkuyegdvwetkzfmcqnl5z4sxfyye",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "syndr",
   "icons": [{
     "url": "ipfs://bafkreibsl7iuxeibovp7uddigbus3lyse2f7n4s2lomgvf33fmgyxjwq5i",
