@@ -19038,9 +19038,9 @@
   "nativeCurrency": {
     "name": "RANNTA Core X",
     "symbol": "RNTX",
-    "decimals": 13
+    "decimals": 18
   },
-  "rpc": ["https://rpc.rannta.com/api/rpc"],
+  "rpc": ["https://rpc.rannta.com"],
   "faucets": [],
   "infoURL": "https://rannta.com"
 }, {

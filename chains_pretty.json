@@ -6382,9 +6382,11 @@
   "shortName": "bourse",
   "chainId": 343,
   "networkId": 343,
+  "icon": "bourse",
   "explorers": [{
     "name": "Capital Exchange Markets | Digital",
     "url": "https://explorer.capitalexchange.se",
+    "icon": "bourse",
     "standard": "none"
   }]
 }, {
@@ -31400,12 +31402,12 @@
   "name": "RANNTA X-Chain",
   "chain": "RANNTA",
   "icon": "rannta",
-  "rpc": ["https://rpc.rannta.com/api/rpc"],
+  "rpc": ["https://rpc.rannta.com"],
   "faucets": [],
   "nativeCurrency": {
     "name": "RANNTA Core X",
     "symbol": "RNTX",
-    "decimals": 13
+    "decimals": 18
   },
   "infoURL": "https://rannta.com",
   "shortName": "rntx",
