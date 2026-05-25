@@ -639,6 +639,14 @@
     "format": "png"
   }]
 }, {
+  "name": "pln",
+  "icons": [{
+    "url": "ipfs://bafkreiabrr7ugnm4og2oe3d7pdgkqohc3nil5cdm5lmgt3htipa7k2gwti",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "lxp",
   "icons": [{
     "url": "ipfs://QmZRg6LmyU4jJie3VPd7xacBf6qwkbsnHDgCgRkr7iwgKP",

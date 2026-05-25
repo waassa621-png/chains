@@ -28612,6 +28612,19 @@
   "faucets": ["https://faucet.tipboxcoin.net"],
   "infoURL": "https://tipboxcoin.net"
 }, {
+  "name": "PLN Network",
+  "chainId": 411994,
+  "shortName": "pln",
+  "networkId": 411994,
+  "nativeCurrency": {
+    "name": "PLN",
+    "symbol": "PLN",
+    "decimals": 18
+  },
+  "rpc": ["https://oneagent.uk/rpc"],
+  "faucets": ["https://oneagent.uk"],
+  "infoURL": "https://oneagent.uk"
+}, {
   "name": "AIE Testnet",
   "chainId": 413413,
   "shortName": "aie",
