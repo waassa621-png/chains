@@ -26753,6 +26753,19 @@
   "faucets": ["https://testnet.mitosis.org/faucet"],
   "infoURL": "https://mitosis.org"
 }, {
+  "name": "Gravity",
+  "chainId": 127001,
+  "shortName": "grav",
+  "networkId": 127001,
+  "nativeCurrency": {
+    "name": "Gravity",
+    "symbol": "G",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.gravity.xyz"],
+  "faucets": [],
+  "infoURL": "https://gravity.xyz"
+}, {
   "name": "Etherlink Shadownet Testnet",
   "chainId": 127823,
   "shortName": "etlst",
