@@ -1219,7 +1219,7 @@
   "GdccMainnet": "eip155:7774",
   "GDCC": "eip155:7775",
   "pandaSea-mainnet": "eip155:7776",
-  "RiseOfTheWarbotsTestnet": "eip155:7777",
+  "ttl": "eip155:7777",
   "ore": "eip155:7778",
   "drw": "eip155:7788",
   "dzx": "eip155:7791",

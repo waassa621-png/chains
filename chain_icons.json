@@ -9086,6 +9086,14 @@
     "format": "png"
   }]
 }, {
+  "name": "ttl",
+  "icons": [{
+    "url": "ipfs://bafybeiftd5f7es2zppt73upvu6qu5a45eyy54orrnssodls7f5z5z4lvh4",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "phron",
   "icons": [{
     "url": "ipfs://Qmf77sTNKpnTbwYjauyQ7KpxV5EbgTPP27Fmx24svB84gY",

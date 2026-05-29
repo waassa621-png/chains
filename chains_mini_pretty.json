@@ -15859,18 +15859,18 @@
   "faucets": [],
   "infoURL": ""
 }, {
-  "name": "Rise of the Warbots Testnet",
+  "name": "TTL Coin",
   "chainId": 7777,
-  "shortName": "RiseOfTheWarbotsTestnet",
+  "shortName": "ttl",
   "networkId": 7777,
   "nativeCurrency": {
-    "name": "Nano Machines",
-    "symbol": "NMAC",
+    "name": "TTL Coin",
+    "symbol": "TTL",
     "decimals": 18
   },
-  "rpc": ["https://testnet1.riseofthewarbots.com", "https://testnet2.riseofthewarbots.com", "https://testnet3.riseofthewarbots.com", "https://testnet4.riseofthewarbots.com", "https://testnet5.riseofthewarbots.com"],
+  "rpc": ["https://rpc.ttl1.top"],
   "faucets": [],
-  "infoURL": "https://riseofthewarbots.com/"
+  "infoURL": "https://github.com/okneo31/ttlcoin"
 }, {
   "name": "Orenium Mainnet Protocol",
   "chainId": 7778,
