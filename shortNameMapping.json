@@ -524,6 +524,7 @@
   "EVC": "eip155:1010",
   "rebusclassic": "eip155:1011",
   "new": "eip155:1012",
+  "mai": "eip155:1019",
   "sku": "eip155:1022",
   "tclv": "eip155:1023",
   "clv": "eip155:1024",

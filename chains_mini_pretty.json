@@ -6824,6 +6824,19 @@
   "faucets": [],
   "infoURL": "https://www.newtonproject.org/"
 }, {
+  "name": "MAI Chain Mainnet",
+  "chainId": 1019,
+  "shortName": "mai",
+  "networkId": 1019,
+  "nativeCurrency": {
+    "name": "MAI Chain Native Token",
+    "symbol": "MAI",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-node-0.maichain.org", "https://mainnet-node-1.maichain.org", "https://mainnet-node-2.maichain.org"],
+  "faucets": [],
+  "infoURL": ""
+}, {
   "name": "Sakura",
   "chainId": 1022,
   "shortName": "sku",
