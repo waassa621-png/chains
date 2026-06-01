@@ -4822,6 +4822,19 @@
   "faucets": [],
   "infoURL": "https://www.metis.io"
 }, {
+  "name": "LadyChain",
+  "chainId": 589,
+  "shortName": "lady",
+  "networkId": 589,
+  "nativeCurrency": {
+    "name": "Lady",
+    "symbol": "LADY",
+    "decimals": 18
+  },
+  "rpc": ["https://ladyrpc.us/rpc"],
+  "faucets": [],
+  "infoURL": "https://ladyswap.us"
+}, {
   "name": "Astar",
   "chainId": 592,
   "shortName": "astr",

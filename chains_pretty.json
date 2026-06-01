@@ -8054,6 +8054,26 @@
   },
   "status": "deprecated"
 }, {
+  "name": "LadyChain",
+  "chain": "LADY",
+  "icon": "lady",
+  "rpc": ["https://ladyrpc.us/rpc"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Lady",
+    "symbol": "LADY",
+    "decimals": 18
+  },
+  "infoURL": "https://ladyswap.us",
+  "shortName": "lady",
+  "chainId": 589,
+  "networkId": 589,
+  "explorers": [{
+    "name": "LadyScan",
+    "url": "https://ladyscan.us",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Astar",
   "chain": "ASTR",
   "rpc": ["https://rpc.astar.network:8545"],

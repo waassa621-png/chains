@@ -1887,6 +1887,14 @@
     "format": "png"
   }]
 }, {
+  "name": "lady",
+  "icons": [{
+    "url": "ipfs://QmWcjr13L8Meo6XcokKAFH8TAn7cEdwQb7Qcva1bjZnVLh",
+    "width": 640,
+    "height": 640,
+    "format": "png"
+  }]
+}, {
   "name": "reapchain",
   "icons": [{
     "url": "ipfs://QmevQ8jmDWHmdnUQg6BpoMwVB3NhpzS75adbMnKL78Ls2h",
