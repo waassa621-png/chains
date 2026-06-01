@@ -22008,6 +22008,19 @@
   "faucets": [],
   "infoURL": "https://www.divchain.org"
 }, {
+  "name": "Citrate",
+  "chainId": 40204,
+  "shortName": "citrate",
+  "networkId": 40204,
+  "nativeCurrency": {
+    "name": "SALT",
+    "symbol": "SALT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.citrate.ai", "wss://rpc.citrate.ai"],
+  "faucets": [],
+  "infoURL": "https://citrate.ai"
+}, {
   "name": "Aleph Zero EVM",
   "chainId": 41455,
   "shortName": "aleph-zero",
