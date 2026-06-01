@@ -3856,7 +3856,7 @@
     "symbol": "BOURSE",
     "decimals": 18
   },
-  "rpc": ["https://rpc.capitalexchange.digital"],
+  "rpc": ["https://rpc.capitalexchange.com", "https://rpc.capitalexchange.digital"],
   "faucets": [],
   "infoURL": "https://www.capitalexchange.com"
 }, {
@@ -16687,7 +16687,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://mainnet.base.org/", "https://developer-access-mainnet.base.org/", "https://base.gateway.tenderly.co", "wss://base.gateway.tenderly.co", "https://base-rpc.publicnode.com", "wss://base-rpc.publicnode.com", "https://rpcfree.com/base-rpc"],
+  "rpc": ["https://mainnet.base.org/", "https://developer-access-mainnet.base.org/", "https://base.gateway.tenderly.co", "wss://base.gateway.tenderly.co", "https://base-rpc.publicnode.com", "wss://base-rpc.publicnode.com", "https://rpcfree.com/base-rpc", "https://rpc.baseazul.dev"],
   "faucets": [],
   "infoURL": "https://base.org"
 }, {

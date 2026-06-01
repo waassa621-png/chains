@@ -6366,7 +6366,7 @@
 }, {
   "name": "Capital Exchange",
   "chain": "BOURSE",
-  "rpc": ["https://rpc.capitalexchange.digital"],
+  "rpc": ["https://rpc.capitalexchange.com", "https://rpc.capitalexchange.digital"],
   "features": [{
     "name": "EIP155"
   }, {
@@ -6385,7 +6385,7 @@
   "icon": "bourse",
   "explorers": [{
     "name": "Capital Exchange | Digital",
-    "url": "https://explorer.capitalexchange.se",
+    "url": "https://explorer.capitalexchange.com",
     "icon": "bourse",
     "standard": "none"
   }]
@@ -27599,7 +27599,7 @@
 }, {
   "name": "Base",
   "chain": "ETH",
-  "rpc": ["https://mainnet.base.org/", "https://developer-access-mainnet.base.org/", "https://base.gateway.tenderly.co", "wss://base.gateway.tenderly.co", "https://base-rpc.publicnode.com", "wss://base-rpc.publicnode.com", "https://rpcfree.com/base-rpc"],
+  "rpc": ["https://mainnet.base.org/", "https://developer-access-mainnet.base.org/", "https://base.gateway.tenderly.co", "wss://base.gateway.tenderly.co", "https://base-rpc.publicnode.com", "wss://base-rpc.publicnode.com", "https://rpcfree.com/base-rpc", "https://rpc.baseazul.dev"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
