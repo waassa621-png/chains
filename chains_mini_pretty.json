@@ -13329,8 +13329,8 @@
   "shortName": "ikchain-testnet",
   "networkId": 4270,
   "nativeCurrency": {
-    "name": "IKCrypto",
-    "symbol": "IKCr",
+    "name": "IKToken",
+    "symbol": "IKTokn",
     "decimals": 18
   },
   "rpc": ["https://testnet-rpc.ikchain.net"],

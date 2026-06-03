@@ -21997,8 +21997,8 @@
   }],
   "faucets": ["https://testnet-explorer.ikchain.net"],
   "nativeCurrency": {
-    "name": "IKCrypto",
-    "symbol": "IKCr",
+    "name": "IKToken",
+    "symbol": "IKTokn",
     "decimals": 18
   },
   "infoURL": "https://ikchain.net",
