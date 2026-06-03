@@ -11387,6 +11387,19 @@
   "faucets": [],
   "infoURL": "https://karak.network"
 }, {
+  "name": "SVPChain Testnet",
+  "chainId": 2517,
+  "shortName": "svptest",
+  "networkId": 2517,
+  "nativeCurrency": {
+    "name": "SVP Token",
+    "symbol": "SVP",
+    "decimals": 18
+  },
+  "rpc": ["https://svp-dataseed1-testnet.svpchain.org", "https://svp-dataseed2-testnet.svpchain.org", "https://svp-dataseed3-testnet.svpchain.org"],
+  "faucets": [],
+  "infoURL": "https://svpchain.org"
+}, {
   "name": "Fraxtal Testnet",
   "chainId": 2522,
   "shortName": "fraxtal-testnet",

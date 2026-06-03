@@ -875,6 +875,7 @@
   "now": "eip155:2488",
   "karak-goerli": "eip155:2511",
   "K2-testnet": "eip155:2512",
+  "svptest": "eip155:2517",
   "fraxtal-testnet": "eip155:2522",
   "fraxtal-hoodi-testnet": "eip155:2523",
   "inevm": "eip155:2525",
