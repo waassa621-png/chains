@@ -2508,18 +2508,18 @@
   "faucets": [],
   "infoURL": "https://firachain.com"
 }, {
-  "name": "X Layer Testnet",
+  "name": "X Layer Testnet(Deprecated)",
   "chainId": 195,
-  "shortName": "tokb",
+  "shortName": "tokb-dep",
   "networkId": 195,
   "nativeCurrency": {
-    "name": "X Layer Global Utility Token in testnet",
-    "symbol": "OKB",
+    "name": "X Layer Global Utility Token in testnet(Deprecated)",
+    "symbol": "OKBDep",
     "decimals": 18
   },
-  "rpc": ["https://testrpc.xlayer.tech", "https://xlayertestrpc.okx.com"],
-  "faucets": ["https://www.okx.com/xlayer/faucet"],
-  "infoURL": "https://www.okx.com/xlayer"
+  "rpc": [],
+  "faucets": [],
+  "infoURL": ""
 }, {
   "name": "X Layer Mainnet",
   "chainId": 196,
@@ -9657,6 +9657,19 @@
   "rpc": ["https://mainnet.d-chain.network/ext/bc/2ZiR1Bro5E59siVuwdNuRFzqL95NkvkbzyLBdrsYR9BLSHV7H4/rpc"],
   "faucets": [],
   "infoURL": ""
+}, {
+  "name": "X Layer Testnet",
+  "chainId": 1952,
+  "shortName": "tokb",
+  "networkId": 1952,
+  "nativeCurrency": {
+    "name": "X Layer Global Utility Token in testnet",
+    "symbol": "OKB",
+    "decimals": 18
+  },
+  "rpc": ["https://testrpc.xlayer.tech", "https://xlayertestrpc.okx.com"],
+  "faucets": ["https://www.okx.com/xlayer/faucet"],
+  "infoURL": "https://web3.okx.com/xlayer"
 }, {
   "name": "Selendra Network Testnet",
   "chainId": 1953,
