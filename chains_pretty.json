@@ -6377,16 +6377,16 @@
     "symbol": "BOURSE",
     "decimals": 18
   },
-  "infoURL": "https://www.capitalexchange.com",
+  "infoURL": "https://about.capitalexchange.com",
   "shortName": "bourse",
   "chainId": 343,
   "networkId": 343,
   "icon": "bourse",
   "explorers": [{
     "name": "Capital Exchange | Digital",
-    "url": "https://explorer.capitalexchange.com",
+    "url": "https://bourse.capitalexchange.com",
     "icon": "bourse",
-    "standard": "none"
+    "standard": "EIP3091"
   }]
 }, {
   "name": "TSC Mainnet",

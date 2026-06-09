@@ -3858,7 +3858,7 @@
   },
   "rpc": ["https://rpc.capitalexchange.com", "https://rpc.capitalexchange.digital"],
   "faucets": [],
-  "infoURL": "https://www.capitalexchange.com"
+  "infoURL": "https://about.capitalexchange.com"
 }, {
   "name": "TSC Mainnet",
   "chainId": 345,
