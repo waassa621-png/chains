@@ -30042,6 +30042,19 @@
   "faucets": [],
   "infoURL": "https://www.trias.one"
 }, {
+  "name": "GembaBlockchain Testnet",
+  "chainId": 821207,
+  "shortName": "gembatest",
+  "networkId": 821207,
+  "nativeCurrency": {
+    "name": "Gemba",
+    "symbol": "GMB",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.gembascan.io/rpc", "https://rpc1.gembascan.io", "https://rpc2.gembascan.io"],
+  "faucets": [],
+  "infoURL": "https://gembachain.io"
+}, {
   "name": "CURVE Mainnet",
   "chainId": 827431,
   "shortName": "CURVEm",

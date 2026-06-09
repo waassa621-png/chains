@@ -2310,6 +2310,7 @@
   "codex-testnet": "eip155:812242",
   "SGV": "eip155:812397",
   "tTSC": "eip155:820522",
+  "gembatest": "eip155:821207",
   "CURVEm": "eip155:827431",
   "HYPEC": "eip155:838838",
   "prmtest": "eip155:839320",

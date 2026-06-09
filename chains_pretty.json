@@ -50117,6 +50117,29 @@
     "standard": "none"
   }]
 }, {
+  "name": "GembaBlockchain Testnet",
+  "chain": "GMB",
+  "icon": "gemba",
+  "rpc": ["https://testnet.gembascan.io/rpc", "https://rpc1.gembascan.io", "https://rpc2.gembascan.io"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Gemba",
+    "symbol": "GMB",
+    "decimals": 18
+  },
+  "infoURL": "https://gembachain.io",
+  "shortName": "gembatest",
+  "chainId": 821207,
+  "networkId": 821207,
+  "explorers": [{
+    "name": "GembaScan",
+    "url": "https://testnet.gembascan.io",
+    "icon": "gemba",
+    "standard": "EIP3091"
+  }],
+  "status": "active",
+  "title": "GembaBlockchain Testnet"
+}, {
   "name": "CURVE Mainnet",
   "chain": "CURVE",
   "icon": "curveIcon",
