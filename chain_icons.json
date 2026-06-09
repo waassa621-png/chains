@@ -2815,6 +2815,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "ashchain",
+  "icons": [{
+    "url": "ipfs://bafkreicjrtxoflhrnr4tvp76ba6p6oxd5lpan24nvaumnvvr7ffsx5ioym",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "access",
   "icons": [{
     "url": "ipfs://bafkreifwuwf43ceqgb6hoavb4igpea5txc26dafm4pmuykdvrer5z6ess4",

@@ -1774,6 +1774,7 @@
   "SomniaTestnet": "eip155:50312",
   "reddio-devnet": "eip155:50341",
   "reddio": "eip155:50342",
+  "ash": "eip155:50366",
   "stb-testnet": "eip155:50505",
   "Erbie": "eip155:50888",
   "Lumoz-Testnet": "eip155:51178",

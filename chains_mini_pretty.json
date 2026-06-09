@@ -23074,6 +23074,19 @@
   "faucets": [],
   "infoURL": "https://www.reddio.com"
 }, {
+  "name": "ASHCHAIN",
+  "chainId": 50366,
+  "shortName": "ash",
+  "networkId": 50366,
+  "nativeCurrency": {
+    "name": "ASH",
+    "symbol": "ASH",
+    "decimals": 18
+  },
+  "rpc": ["https://evm-rpc.ashchain.io", "https://evm-rpc2.ashchain.io"],
+  "faucets": ["https://ashchain.io/faucet"],
+  "infoURL": "https://ashchain.io"
+}, {
   "name": "STB Testnet",
   "chainId": 50505,
   "shortName": "stb-testnet",
