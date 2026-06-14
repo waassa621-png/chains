@@ -5026,7 +5026,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://mainnet.battlechain.com"],
   "faucets": [],
   "infoURL": "https://battlechain.com"
 }, {
