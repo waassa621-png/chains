@@ -1647,6 +1647,14 @@
     "format": "png"
   }]
 }, {
+  "name": "maroo",
+  "icons": [{
+    "url": "ipfs://bafkreiftnaqr2cdmvnz5jbzyu5q24eujpp3jfpue6ujnpexdif2bxj4cve",
+    "width": 192,
+    "height": 192,
+    "format": "png"
+  }]
+}, {
   "name": "pentagonchain",
   "icons": [{
     "url": "ipfs://bafkreibiwnnehj2j3tbla2yvvama6p7tfxvjfeqymw6ptoecoxb66glhkm",

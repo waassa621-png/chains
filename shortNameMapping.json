@@ -2231,6 +2231,7 @@
   "graphite": "eip155:440017",
   "syndr": "eip155:444444",
   "wlkt": "eip155:444900",
+  "maroo-testnet": "eip155:450815",
   "psep": "eip155:471100",
   "ultrapro": "eip155:473861",
   "oc": "eip155:474142",

@@ -29015,6 +29015,19 @@
   "faucets": ["https://faucet.weelink.gw002.oneitfarm.com"],
   "infoURL": "https://weelink.cloud"
 }, {
+  "name": "Maroo Testnet",
+  "chainId": 450815,
+  "shortName": "maroo-testnet",
+  "networkId": 450815,
+  "nativeCurrency": {
+    "name": "Testnet OKRW",
+    "symbol": "tOKRW",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.maroo.io"],
+  "faucets": ["https://faucet.maroo.io"],
+  "infoURL": "https://maroo.io"
+}, {
   "name": "Patex Sepolia Testnet",
   "chainId": 471100,
   "shortName": "psep",
