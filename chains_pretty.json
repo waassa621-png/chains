@@ -45506,7 +45506,7 @@
 }, {
   "name": "mfenx",
   "chain": "MFENX",
-  "rpc": ["https://indexer.mfenx.com/rpc"],
+  "rpc": ["https://rpc.mfenx.com"],
   "features": [{
     "name": "EIP155"
   }, {

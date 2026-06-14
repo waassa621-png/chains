@@ -27360,7 +27360,7 @@
     "symbol": "JULIAN",
     "decimals": 18
   },
-  "rpc": ["https://indexer.mfenx.com/rpc"],
+  "rpc": ["https://rpc.mfenx.com"],
   "faucets": [],
   "infoURL": "https://mfenx.com/power-house"
 }, {
