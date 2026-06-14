@@ -7851,6 +7851,14 @@
     "format": "png"
   }]
 }, {
+  "name": "jmdt",
+  "icons": [{
+    "url": "ipfs://Qma8uKeedDqT3iSPVSkWgZAf74FtUfZhjuZFENaYJZc48k",
+    "width": 1600,
+    "height": 1600,
+    "format": "png"
+  }]
+}, {
   "name": "wanchain",
   "icons": [{
     "url": "ipfs://QmcRVHdG7Sr1f26DhkBwE1YuwFZXFjNth5S3TookXoyFaq",

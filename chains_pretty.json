@@ -52372,6 +52372,26 @@
     "name": "EIP1559"
   }]
 }, {
+  "name": "JMDT Mainnet",
+  "chain": "JMDT",
+  "rpc": ["https://rpc.jmdt.io", "https://mainnetrpc.jmdt.io"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "JMDT",
+    "symbol": "JMDT",
+    "decimals": 18
+  },
+  "infoURL": "https://jmdt.io",
+  "shortName": "jmdt",
+  "chainId": 7000700,
+  "networkId": 7000700,
+  "icon": "jmdt",
+  "explorers": [{
+    "name": "JMDT Explorer",
+    "url": "https://explorer.jmdt.io",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Humanity Protocol testnet",
   "chain": "Humanity",
   "rpc": ["https://rpc.testnet.humanity.org", "https://humanity-testnet.g.alchemy.com/public"],
@@ -52623,6 +52643,26 @@
   "shortName": "maki",
   "chainId": 8000008,
   "networkId": 8000008
+}, {
+  "name": "JMDT Testnet",
+  "chain": "JMDT",
+  "rpc": ["https://testnetrpc.jmdt.io"],
+  "faucets": ["https://faucet.jmdt.io"],
+  "nativeCurrency": {
+    "name": "Test JMDT",
+    "symbol": "tJMDT",
+    "decimals": 18
+  },
+  "infoURL": "https://jmdt.io",
+  "shortName": "tjmdt",
+  "chainId": 8000800,
+  "networkId": 8000800,
+  "icon": "jmdt",
+  "explorers": [{
+    "name": "JMDT Testnet Explorer",
+    "url": "https://explorer.jmdt.io/testnet",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Plian Mainnet Subchain 1",
   "chain": "Plian",
